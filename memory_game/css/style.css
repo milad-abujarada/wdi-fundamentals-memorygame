@@ -98,3 +98,11 @@ font-size: 0;
 a:hover {
 	border-color: white;
 }
+button {
+	font-size: 20px;
+	margin-top: 10px;
+	font-family: "RALEWAY";
+	letter-spacing: 1px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
